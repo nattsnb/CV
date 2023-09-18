@@ -1,0 +1,58 @@
+.header-name {
+    text-transform: uppercase;
+    
+
+}
+
+.header-occupation {
+
+}
+
+.page {
+    display: flex;
+    flex-direction: row-reverse;
+
+
+}
+
+.main-content {
+
+}
+
+.main-title {
+
+}
+
+.job-description {
+
+}
+
+.work-place-and-date {
+
+}
+
+.work-place {
+
+}
+
+.date {
+
+}
+
+.box-occupation {
+
+}
+
+.title-occupation {
+
+}
+
+.job-description {
+
+}
+
+.aside-content {
+    width: 500px;
+
+}
+
