@@ -32,7 +32,7 @@
 .person-occupation-line {
     background-color: #293959;
     border: none;
-    height: 3px;
+    height: 4px;
     width: 100px;
     display: inline;
     margin-left: 20px;
@@ -46,9 +46,12 @@
 
 .header-person-name {
     text-transform: uppercase;
+    margin: 0;
+    font-size: 45px;
 }
 
 .header-person-occupation {
+    margin: 0;
 
 }
 
