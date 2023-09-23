@@ -39,6 +39,7 @@
 .page {
     display: flex;
     flex-direction: row-reverse;
+    color: #293959;
 }
 
 .main-content {
