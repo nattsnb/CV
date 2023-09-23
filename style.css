@@ -92,12 +92,13 @@
 }
 
 .aside-content {
-    background-color: #293959;
+    background-color: white;
     display: flex;
     flex-direction: column;
 }
 
 .aside-contact-info {
+    background-color: #293959;
     border-style: solid;
     border-width: 2px 0 2px 0;
     border-color: white;
@@ -136,6 +137,7 @@
 }
 
 .aside-about-me {
+    background-color: #293959;
     padding: 0 10% 0 10%;
 }
 
@@ -161,4 +163,11 @@
 .about-me-content {
     color: white;
     font-size: 14px;
+}
+
+.aside-triangle {
+    background-image: url("aside-triangle.jpg");
+    height: 120px;
+    background-position: center;
+    background-size: cover;
 }
