@@ -91,12 +91,39 @@
     border-style: solid;
     border-width: 2px 0 2px 0;
     border-color: white;
+    height: 200px;
+}
+
+.contact-info-line {
+    color: white;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+
+.contact-icon {
+    width: 30px;
+    height: 30px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 15px;
+    margin-right: 7px;
+}
+
+.icon-phone {
+    background-image: url("icon-phone.jpg");
+}
+
+.icon-email {
+    background-image: url("icon-email.jpg");
+}
+
+.icon-geo {
+    background-image: url("icon-geo.jpg");
 }
 
 .aside-about-me {
-    padding
-
-    : 0 10% 0 10%;
+    padding: 0 10% 0 10%;
 }
 
 .about-me-header {
