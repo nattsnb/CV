@@ -47,20 +47,20 @@
 
 .main-title-box {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
 }
 
 .main-title {
-
+    display: inline;
+    background-color: salmon;
 }
 
 .main-title-line {
     border-color: #293959;
     border-width: 1px;
-}
-
-.job-description {
-
+    display: inline;
+    height: 0;
+    width: 300px;
 }
 
 .job-section {
