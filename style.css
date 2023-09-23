@@ -4,8 +4,9 @@
 }
 
 .header-logo {
-    background-color: #1F395A;
-    
+    background-image: url("logo-flasks.jpg");
+    background-position: center;
+    background-size: cover;
 }
 
 .logo-aside-width {
@@ -17,8 +18,9 @@
 }
 
 .header-box {
-    background-color: red;
-    width: 100px;
+    background-color: #1F395A;
+    width: 70px;
+    height: 140px;
 }
 
 .header-person-name {
