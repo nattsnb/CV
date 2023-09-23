@@ -52,6 +52,12 @@
 }
 
 .aside-content {
-    width: 500px;
+    width: 1000px;
+    background-color: #1F395A;
+
+}
+
+.about-me-content {
+    color: white;
 
 }
