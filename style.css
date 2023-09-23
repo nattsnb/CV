@@ -6,6 +6,7 @@
 .header {
     height: 180px;
     display: flex;
+    color: #293959;
 }
 
 .header-logo {
@@ -19,7 +20,8 @@
 }
 
 .header-person {
-
+    margin: 40px;
+    width: 2000px;
 }
 
 .header-box {
