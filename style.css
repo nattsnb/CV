@@ -45,8 +45,18 @@
     padding: 4%;
 }
 
+.main-title-box {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
 .main-title {
 
+}
+
+.main-title-line {
+    border-color: #293959;
+    border-width: 1px;
 }
 
 .job-description {
