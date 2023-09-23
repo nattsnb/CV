@@ -16,7 +16,7 @@
 }
 
 .main-content {
-
+    padding: 4%;
 }
 
 .main-title {
@@ -24,6 +24,10 @@
 }
 
 .job-description {
+
+}
+
+.job-section {
 
 }
 
@@ -54,6 +58,7 @@
 .aside-content {
     width: 1000px;
     background-color: #1F395A;
+    padding: 3%;
 
 }
 
