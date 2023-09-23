@@ -4,7 +4,7 @@
 }
 
 .header-logo {
-    width: 150px;
+    width: 1200px;
 }
 
 .header-person {
@@ -69,7 +69,6 @@
 }
 
 .aside-content {
-    width: 1000px;
     background-color: #1F395A;
     padding: 3%;
 
