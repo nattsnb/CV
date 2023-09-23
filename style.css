@@ -1,9 +1,10 @@
 .header {
-
+    height: 180px;
+    display: flex;
 }
 
 .header-logo {
-
+    width: 150px;
 }
 
 .header-person {
