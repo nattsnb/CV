@@ -88,18 +88,24 @@
     border-color: white;
 }
 
+.aside-about-me {
+    padding: 0 15px 0 15px;
+}
+
 .about-me-header {
     display: flex;
 }
 
 .about-me-tittle {
    color: white;
+    font-size: 20px;
 }
 
 .about-me-line {
+    height: 0;
     border-color: white;
-    border-width: 2px;
-    width: 245px;
+    border-width: 1px;
+    width: 80px;
 }
 
 .about-me-content {
