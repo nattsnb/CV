@@ -24,6 +24,20 @@
     width: 2000px;
 }
 
+.person-occupation-box {
+    display: flex;
+    align-items:baseline;
+}
+
+.person-occupation-line {
+    background-color: #293959;
+    border: none;
+    height: 3px;
+    width: 100px;
+    display: inline;
+    margin-left: 20px;
+}
+
 .header-box {
     background-color: #293959;
     width: 70px;
