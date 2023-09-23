@@ -94,7 +94,9 @@
 }
 
 .aside-about-me {
-    padding: 0 15px 0 15px;
+    padding
+
+    : 0 10% 0 10%;
 }
 
 .about-me-header {
@@ -103,19 +105,20 @@
 }
 
 .about-me-tittle {
-   color: white;
+    color: white;
     font-size: 20px;
+    white-space: nowrap;
+    margin-right: 15px;
 }
 
 .about-me-line {
     height: 0;
     border-color: white;
     border-width: 1px;
-    width: 80px;
+    width: 100%;
 }
 
 .about-me-content {
     color: white;
-    padding: 3%;
-
+    font-size: 14px;
 }
