@@ -94,6 +94,7 @@
 
 .about-me-header {
     display: flex;
+    align-items: baseline;
 }
 
 .about-me-tittle {
