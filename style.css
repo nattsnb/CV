@@ -111,7 +111,7 @@
 }
 
 .job-description {
-
+    text-indent: 15px;
 }
 
 .aside-content {
@@ -186,6 +186,7 @@
 .about-me-content {
     color: white;
     font-size: 14px;
+    text-indent: 15px;
 }
 
 .aside-triangle {
