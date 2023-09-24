@@ -9,16 +9,6 @@
     color: #293959;
 }
 
-.header-logo {
-    background-image: url("logo-flasks.jpg");
-    background-position: center;
-    background-size: cover;
-}
-
-.logo-aside-width {
-    width: 1200px;
-}
-
 .header-person {
     margin: 25px 0 0 30px;
     width: 2000px;
@@ -117,6 +107,12 @@
     background-color: white;
     display: flex;
     flex-direction: column;
+}
+
+.aside-logo {
+    background-image: url("logo-flasks.jpg");
+    background-position: center;
+    background-size: cover;
 }
 
 .aside-contact-info {
