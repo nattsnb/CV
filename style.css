@@ -45,8 +45,8 @@
 
 .header-box {
     background-color: #293959;
-    width: 70px;
-    height: 140px;
+    width: 25%;
+    height: 100%;
 }
 
 .header-person-name {
@@ -64,22 +64,25 @@
 }
 
 .main-title-box {
+    width: 100%;
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    align-items: baseline;
+    justify-content: space-between;
 }
 
 .main-title {
-    background-color: salmon;
     letter-spacing: 3px;
     display: inline-flex;
+    white-space: nowrap;
 }
 
 .main-title-line {
     border-color: #293959;
     border-width: 1px;
     height: 0;
-    width: 100px;
+    width: 40%;
+    margin: 0;
 }
 
 .work-place-and-date {
