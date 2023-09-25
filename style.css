@@ -4,6 +4,7 @@
     width: 100vw;
     height: 100vh;
     max-width: 850px;
+    color: #293959;
 }
 
 .wrapper {
@@ -18,7 +19,6 @@
 .header {
     height: 180px;
     display: flex;
-    color: #293959;
 }
 
 .header-person {
@@ -60,6 +60,7 @@
 }
 
 .main-content {
+    padding: 0 6.7% 0 6.7%;
 }
 
 .main-title-box {
