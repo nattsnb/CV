@@ -66,20 +66,20 @@
 .main-title-box {
     display: flex;
     flex-direction: row;
+    justify-content: flex-start;
 }
 
 .main-title {
-    display: inline;
     background-color: salmon;
     letter-spacing: 3px;
+    display: inline-flex;
 }
 
 .main-title-line {
     border-color: #293959;
     border-width: 1px;
-    display: inline;
     height: 0;
-    width: 300px;
+    width: 100px;
 }
 
 .work-place-and-date {
