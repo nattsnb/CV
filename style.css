@@ -1,6 +1,8 @@
 .font-style {
     font-family: "Roboto", sans-serif;
     text-align: justify;
+    width: 100vw;
+    height: 100vh;
 }
 
 .wrapper {
@@ -105,7 +107,6 @@
 }
 
 .aside-content {
-    width: 400px;
     background-color: white;
     display: flex;
     flex-direction: column;
