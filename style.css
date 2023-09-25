@@ -3,6 +3,7 @@
     text-align: justify;
     width: 100vw;
     height: 100vh;
+    max-width: 850px;
 }
 
 .wrapper {
@@ -11,7 +12,7 @@
 }
 
 .main-section {
-    max-width: 700px;
+    width: 60%;
 }
 
 .header {
@@ -107,16 +108,17 @@
 }
 
 .aside-content {
+    width: 40%;
     background-color: white;
     display: flex;
     flex-direction: column;
 }
 
 .aside-logo {
+    aspect-ratio : 1.25 / 1;
     background-image: url("logo-flasks.jpg");
     background-position: center;
     background-size: cover;
-    height: 200px;
 }
 
 .aside-contact-info {
