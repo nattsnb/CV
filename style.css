@@ -38,6 +38,7 @@
 
     @media (max-width: 500px) {
         width: 100%;
+        padding-top: 30px;
     }
 }
 
@@ -212,6 +213,11 @@
 .aside-about-me {
     background-color: #293959;
     padding: 0 10% 0 10%;
+
+    @media (max-width: 500px) {
+        padding-bottom: 30px;
+    }
+
 }
 
 .about-me-header {
