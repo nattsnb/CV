@@ -80,6 +80,10 @@
     background-color: #293959;
     width: 10%;
     height: 90%;
+
+    @media (max-width: 500px) {
+        display: none;
+    }
 }
 
 .header-person-name {
