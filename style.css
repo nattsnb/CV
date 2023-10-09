@@ -1,22 +1,24 @@
 .font-style {
     font-family: "Roboto", sans-serif;
     text-align: justify;
+    width: 100vw;
+    height: 100vh;
+    max-width: 850px;
+    color: #293959;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.main-section {
+    width: 60%;
 }
 
 .header {
     height: 180px;
     display: flex;
-    color: #293959;
-}
-
-.header-logo {
-    background-image: url("logo-flasks.jpg");
-    background-position: center;
-    background-size: cover;
-}
-
-.logo-aside-width {
-    width: 1200px;
 }
 
 .header-person {
@@ -55,17 +57,10 @@
 
 .header-person-occupation {
     margin: 0;
-
-}
-
-.page {
-    display: flex;
-    flex-direction: row-reverse;
-    color: #293959;
 }
 
 .main-content {
-    padding: 0 4% 0 4%;
+    padding: 0 6.7% 0 6.7%;
 }
 
 .main-title-box {
@@ -114,9 +109,17 @@
 }
 
 .aside-content {
+    width: 40%;
     background-color: white;
     display: flex;
     flex-direction: column;
+}
+
+.aside-logo {
+    aspect-ratio : 1.25 / 1;
+    background-image: url("logo-flasks.jpg");
+    background-position: center;
+    background-size: cover;
 }
 
 .aside-contact-info {
